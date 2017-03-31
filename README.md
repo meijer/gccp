@@ -7,7 +7,7 @@ All documents to be written in UK? English
 
 Document format
 ===============
-All documents to be written in mark down
+All documents to be written in the markdown format
 
 Documents to be produced
 ========================
